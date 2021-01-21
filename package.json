@@ -1,0 +1,24 @@
+{
+  "name": "weatherman",
+  "version": "1.0.0",
+  "description": "A service that takes in location and date info and returns specific weather conditions.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Jaceeee/weatherman.git"
+  },
+  "keywords": [
+    "weather",
+    "api",
+    "javascript"
+  ],
+  "author": "Jace Roldan",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Jaceeee/weatherman/issues"
+  },
+  "homepage": "https://github.com/Jaceeee/weatherman#readme"
+}
